@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "PVZ" ADD COLUMN     "rating" DOUBLE PRECISION;
